@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**kunanan-tan/kunanan-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%231402F7&lines=Hi+I'm+Kunanan+%F0%9F%91%8B+;Welcome+to+my+profile">
+  </a>
+</h1>
+<br>
+ <h3> I'm a fullstack software engineer since 2017 - present <h3>
+  
+<h2> Languages and Tools: </h2>
 
-Here are some ideas to get you started:
+<code><a href="https://www.java.com/en/"><img alt="java" title="java" src="img/java.svg" height="42"></a></code>
+<code><a href="https://spring.io/projects/spring-boot"><img alt="spring-boot" title="spring-boot" src="img/spring.svg" height="42"></a></code>
+<code><a href="https://struts.apache.org/"><img alt="struts" title="struts" src="img/struts.svg" height="42"></a></code>
+<code><a><img alt="html5" title="html5" src="img/html5.svg" height="42"></a></code>
+<code><a href="https://angular.io/"><img alt="angular" title="angular" src="img/angular.png" height="42"></a></code>
+<code><a href="https://www.mysql.com/"><img alt="mysql" title="mysql" src="img/mysql.svg" height="42"></a></code>
+<code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img alt="sqlserver" title="sqlserver" src="img/sqlserver.svg" height="42"></a></code>
+<code><a href="https://www.oracle.com/index.html"><img alt="oracle" title="oracle" src="img/oracle.png" height="42"></a></code>
+<code><a href="https://www.jetbrains.com/idea/"><img alt="idea" title="idea" src="img/idea.png" height="42"></a></code>
+<code><a href="https://www.eclipse.org/"><img alt="eclipse" title="eclipse" src="img/eclipse.png" height="42"></a></code>
+<code><a href="https://netbeans.apache.org/"><img alt="netbean" title="netbean" src="img/netbean.png" height="42"></a></code>
+<code><a href="https://code.visualstudio.com/"><img alt="vscode" title="vscode" src="img/vscode.png" height="42"></a></code>
+<code><a href="https://www.jetbrains.com/datagrip/"><img alt="datagrip" title="datagrip" src="img/datagrip.png" height="42"></a></code>
+<code><a href="https://community.jaspersoft.com/"><img alt="jasper" title="jasper" src="img/jasper.png" height="42"></a></code>
+<code><a href="https://www.crystalreports.com/"><img alt="crystal" title="crystal" src="img/crystal.png" height="42"></a></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
