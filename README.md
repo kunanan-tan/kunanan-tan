@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%231402F7&lines=Hi+I'm+Kunanan+%F0%9F%91%8B+;Welcome+to+my+profile">
   </a>
 </h1>
-<br>
- <h3> I'm a fullstack software engineer since 2017 - present <h3>
+
+ <p> I'm a fullstack software engineer since 2017 - present <p>
   
-<h2> Languages and Tools: </h2>
+<h3> Languages and Tools: </h3>
 
 <code><a href="https://www.java.com/en/"><img alt="java" title="java" src="img/java.svg" height="42"></a></code>
-<code><a href="https://spring.io/projects/spring-boot"><img alt="spring-boot" title="spring-boot" src="img/spring.svg" height="42"></a></code>
-<code><a href="https://struts.apache.org/"><img alt="struts" title="struts" src="img/struts.svg" height="42"></a></code>
+<code><a href="https://spring.io/projects/spring-boot"><img alt="spring-boot" title="spring-boot" src="img/spring.png" height="42"></a></code>
+<code><a href="https://struts.apache.org/"><img alt="struts" title="struts" src="img/struts.png" height="42"></a></code>
 <code><a><img alt="html5" title="html5" src="img/html5.svg" height="42"></a></code>
 <code><a href="https://angular.io/"><img alt="angular" title="angular" src="img/angular.png" height="42"></a></code>
 <code><a href="https://www.mysql.com/"><img alt="mysql" title="mysql" src="img/mysql.svg" height="42"></a></code>
